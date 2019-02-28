@@ -32,6 +32,7 @@ camera.resolution=cfg2.Cam_Resolution
 camera.framerate = cfg2.Cam_FrameRate
 rawCapture=PiRGBArray(camera, size=cfg2.Cam_Resolution)
 
+test
 
 print('Warming Cam...')
 time.sleep(.5)
